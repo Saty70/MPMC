@@ -1,0 +1,5 @@
+1) write a program that finds the number of 1s in a byte
+2) write a program that finds the number of 1s in a word provided tha word is in BCD 1 word =16 bit
+3) decide parity is even or odd if p is even set DL 0 else DL 1 given number maybe a multi byte number take 4 bytes
+4) write a program to add two multi byte numbers and store the result as a third number the numbers are stored in the form of bute list stored with the lowest byte first
+5) 
